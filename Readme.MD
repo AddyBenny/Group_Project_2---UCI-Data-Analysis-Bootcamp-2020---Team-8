@@ -16,6 +16,7 @@ Optionally, time permitting, we'll attempt to build a front end web page allowin
 
 - Review of the metacritic data sets (done)
 - Reading of data into panda dataframes (done)
+- Registered on TheMovieDatabase.org for API key (done)
 - Writing in to PostgreSQL (in-progress)
 
 ## To Do
