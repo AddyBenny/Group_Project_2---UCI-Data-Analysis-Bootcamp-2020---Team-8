@@ -15,11 +15,12 @@ Optionally, time permitting, we'll attempt to build a front end web page allowin
 ## Current Status
 
 - Review of the metacritic data sets (done)
+- Cleaned data for invalid lines and bad import conversion.
 - Reading of data into panda dataframes (done)
 - Registered on TheMovieDatabase.org for API key (done)
 - Writing in to PostgreSQL (in-progress)
 
 ## To Do
 
-- Join of review table and movie table.
 - API call to fetch URL for poster image.
+- Join of review table and movie table.
