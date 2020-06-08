@@ -18,9 +18,13 @@ Optionally, time permitting, we'll attempt to build a front end web page allowin
 - Cleaned data for invalid lines and bad import conversion.
 - Reading of data into panda dataframes (done)
 - Registered on TheMovieDatabase.org for API key (done)
-- Writing in to PostgreSQL (in-progress)
 
-## To Do
 
-- API call to fetch URL for poster image.
+## In Progress
+
+- API call to fetch URL for poster image. (works, but for some reason, some rows have the tuple data swapped.)
+
+## To-do
+
+- Writing in to PostgreSQL
 - Join of review table and movie table.
