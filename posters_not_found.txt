@@ -1,3 +1,4 @@
+The Waiting Room
 Levitated Mass
 Big Animal
 Men Go to Battle
@@ -35,6 +36,7 @@ Uprising (2013)
 Full Battle Rattle
 Our Father
 Harmony and Me
+Smash & Grab: The Story of the Pink Panthers
 Norman Lear: Just Another Version of You
 White King, Red Rubber, Black Death
 Little Jerusalem
@@ -114,6 +116,7 @@ Queen of the Lot
 Ethan Mao
 Brightest Star
 Humboldt County
+Solomon & Gaenor
 Fighting Tommy Riley
 Broken Sky
 Only the Strong Survive
@@ -151,7 +154,6 @@ Cape of Good Hope
 Al Franken: God Spoke
 The Anarchist Cookbook
 Ultrasuede: In Search of Halston
-Generation War
 Devil's Pass
 Up and Down
 Emmanuel's Gift
@@ -193,6 +195,7 @@ Lake of Fire
 Teddy Bear
 The Wonders
 Klown
+The Salesman
 Manito
 Jet Lag
 Memories of Tomorrow
@@ -211,7 +214,6 @@ Iron Island
 Pellet
 Kung Fu Hustle
 The Road Warrior
-The Devil's Backbone
 The Science of Sleep
 Baran
 Climates
@@ -248,16 +250,15 @@ Anton Chekhov's The Duel
 Smash His Camera
 The Great Beauty
 MASH
+Young & Beautiful
 Chinese Puzzle
 Touch the Sound: A Sound Journey with Evelyn Glennie
 A Love Divided
 Diplomacy
 Mad As Hell
 The Grandmaster
-Elvis & Nixon
 Forbidden Lie$
 So Close
-I'll Sleep When I'm Dead
 Crime After Crime
 Orwell Rolls in His Grave
 The Betrayal - Nerakhoon
@@ -270,7 +271,6 @@ When the Road Bends: Tales of a Gypsy Caravan
 Happy, Happy
 Talk to Her
 Manhunter
-Gangs of Wasseypur
 Ushpizin
 Manda Bala (Send a Bullet)
 Son of the Bride
@@ -294,7 +294,6 @@ Wings of Desire
 Gideon's Army
 Sir! No Sir!
 Wild West Comedy Show: 30 Days & 30 Nights - Hollywood to the Heartland
-Unforgivable
 The Fool
 Journey to the West
 I Want Someone to Eat Cheese With
