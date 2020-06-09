@@ -19,6 +19,8 @@ create table movies_t (
 	user_positive smallint,
 	userscore varchar);
 	
-
+create table posters_t (
+	movie_title varchar,
+	poster_url varchar);
 	
 	

@@ -148,7 +148,6 @@ Particles of Truth
 Year of the Fish
 Manufactured Landscapes
 Delicacy
-Happenstance
 Big Bad Love
 Life Is Beautiful
 The Bubble
@@ -174,7 +173,6 @@ Love Crime
 In Search of Mozart
 Searching for the Wrong-Eyed Jesus
 Assisted Living
-La Vie en Rose
 Drug War
 Changing Times
 Darshan: The Embrace
@@ -213,6 +211,7 @@ Cavite
 Crossing the Bridge: The Sound of Istanbul
 Art and Craft
 Iron Island
+Pellet
 Kung Fu Hustle
 The Road Warrior
 The Science of Sleep
