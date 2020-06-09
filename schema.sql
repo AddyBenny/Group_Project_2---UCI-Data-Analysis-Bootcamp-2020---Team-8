@@ -18,3 +18,7 @@ create table movies_t (
 	user_negative smallint,
 	user_positive smallint,
 	userscore varchar);
+	
+
+	
+	

@@ -1,11 +1,9 @@
-The Waiting Room
 Levitated Mass
 Big Animal
 Men Go to Battle
 King Leopold's Ghost
 Rock the Bells
 Who Gets to Call It Art?
-Bill W.
 Stations of the Cross
 The Beauty Academy of Kabul
 Escape Fire: The Fight to Rescue American Healthcare
@@ -13,6 +11,7 @@ Escape Fire: The Fight to Rescue American Healthcare
 Following Sean
 Bright Future
 The Missing Person
+The Monk
 It's About You
 CSNY/Déjà Vu
 In Satmar Custody
@@ -42,10 +41,10 @@ White King, Red Rubber, Black Death
 Little Jerusalem
 The Last Mountain
 Girls Rock!
+Princesa
 The Backyard
 The Outrageous Sophie Tucker
 Where Soldiers Come From
-The House of Tomorrow
 Go Further
 Cet amour-là
 Saudate for the Future
@@ -85,6 +84,7 @@ Greedy Lying Bastards
 Spark: A Burning Man Story
 I Am Eleven
 Amu
+Just Like Us
 Meeting Resistance
 When Comedy Went to School
 Hey Bartender
@@ -98,6 +98,8 @@ The Family Tree
 Film Geek
 Snipes
 Zen Noir
+Running Free
+Dark House
 Girl Play
 Saving Lincoln
 Lotus Eaters
@@ -105,7 +107,6 @@ The Keeper: The Legend of Omar Khayyam
 Skills Like This
 Naked in Ashes
 American Desi
-Tennessee
 Meet Me in Montenegro
 Momma's Man
 In the Face of Evil: Reagan's War in Word and Deed
@@ -125,9 +126,10 @@ Body of War
 Christmas in the Clouds
 The Color Wheel
 Saban's Power Rangers
-1911
 Short Cut to Nirvana: Kumbh Mela
 Happy Tears
+Unconscious
+Winter Solstice
 Two Brothers
 Euthanizer
 Peace, Propaganda & the Promised Land
@@ -146,6 +148,7 @@ Particles of Truth
 Year of the Fish
 Manufactured Landscapes
 Delicacy
+Happenstance
 Big Bad Love
 Life Is Beautiful
 The Bubble
@@ -156,6 +159,7 @@ The Anarchist Cookbook
 Ultrasuede: In Search of Halston
 Devil's Pass
 Up and Down
+The Take
 Emmanuel's Gift
 Runoff
 loudQUIETloud: A Film About the Pixies
@@ -192,7 +196,6 @@ Going Upriver: The Long War of John Kerry
 Gunner Palace
 North Face
 Lake of Fire
-Teddy Bear
 The Wonders
 Klown
 The Salesman
@@ -200,7 +203,6 @@ Manito
 Jet Lag
 Memories of Tomorrow
 Waging a Living
-The Cuckoo
 She's One of Us
 The Prisoner or: How I Planned to Kill Tony Blair
 Flow: For Love of Water
@@ -211,7 +213,6 @@ Cavite
 Crossing the Bridge: The Sound of Istanbul
 Art and Craft
 Iron Island
-Pellet
 Kung Fu Hustle
 The Road Warrior
 The Science of Sleep
@@ -230,7 +231,6 @@ My Flesh and Blood
 Schultze Gets the Blues
 Girlhood
 Café Lumière
-The Front Line
 MC5*: A True Testimonial
 Barrymore
 Paul Williams Still Alive
@@ -241,7 +241,7 @@ Big Bad Wolves
 The 100-Year-Old Man Who Climbed Out the Window and Disappeared
 The Fearless Freaks
 Arna's Children
-Divided We Fall
+Look at Me
 Father and Son
 Casuistry: The Art of Killing a Cat
 The Price of Sugar
@@ -249,8 +249,6 @@ Music from the Inside Out
 Anton Chekhov's The Duel
 Smash His Camera
 The Great Beauty
-MASH
-Young & Beautiful
 Chinese Puzzle
 Touch the Sound: A Sound Journey with Evelyn Glennie
 A Love Divided
@@ -294,6 +292,7 @@ Wings of Desire
 Gideon's Army
 Sir! No Sir!
 Wild West Comedy Show: 30 Days & 30 Nights - Hollywood to the Heartland
+Unforgivable
 The Fool
 Journey to the West
 I Want Someone to Eat Cheese With
@@ -314,4 +313,5 @@ I Killed My Mother
 Show Me Love
 Kill the Poor
 The Woodmans
+Pioneer
 King of the Corner
