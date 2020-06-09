@@ -25,7 +25,9 @@ Finally, demonstrate with a query that all tables are available.
 ### Transformations Required	
 
 There was some minor fixing for the datasets obtained.
+
 	- The .csv of movies had fields stored as text due to comma formatting of thousands (1,000 vs 1000)
+	
 	- The .csv of reviews had text that wrapped into the row below, instead of wrapping and remaining in the cell, additionally, apostrophies were replaced with consistent 3 non-alpha characters.
 	
 ### Production Database Used
