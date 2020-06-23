@@ -16,7 +16,7 @@ Finally, demonstrate with a query that all tables are available.
 
 ### Data sources
 
-- TheMovieDatabase.org
+- TheMovieDB.org
 	API calls will be made to lookup the urls of the posters in 500px sizes.
 
 - Metacritic Movie Reviews: Found on Kaggle at https://www.kaggle.com/miazhx/metacritic-movie-reviews.
